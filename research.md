@@ -296,7 +296,7 @@ year={2010},
 <pre>
 @phdthesis{Kopta-thesis16,
 author = {Daniel Kopta},
-title = {{Ray Tracing From a Data Movement Perspective}},
+title = {Ray Tracing From a Data Movement Perspective},
 school = {The University of Utah},
 year = {2016},
 month = {May}
