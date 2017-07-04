@@ -288,7 +288,7 @@ year={2010},
 
 <a href="papers/kopta_dissertation.pdf"> <strong>Ray Tracing From a Data Movement Perspective</strong></a>
     <br>University of Utah Ph.D. Dissertation<br>
-    [<a href="kopta_dissertation.pdf">pdf</a>]
+    [<a href="papers/kopta_dissertation.pdf">pdf</a>]
     <button onclick="toggle_visibility('DISSERTATIONbib')"> BibTeX </button>
 <p>
 
