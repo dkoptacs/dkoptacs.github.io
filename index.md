@@ -1,5 +1,5 @@
 ---
-title: Dkopta
+title: Daniel Kopta
 ---
 
 ## Welcome to GitHub Pages
