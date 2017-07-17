@@ -25,6 +25,51 @@ img {
 }
 </style>
 
+
+<p><img src="images/HPG17.png" width="205">
+<a href="http://www.cs.utah.edu/~dkopta/papers/hwrt_hpg17.pdf"><strong>Dual Streaming for Hardware-Accelerated Ray Tracing</strong></a>
+<br>
+    High Performance Graphics, 2017<br>
+    <a href="http://www.cs.utah.edu/~kshkurko/">Konstantin Shkurko</a>,
+    <a href="http://www.cs.utah.edu/~tgrant/">Tim Grant</a>,
+    <a href="http://www.cs.utah.edu/~dkopta">Daniel Kopta</a>,
+    <a href="https://geometrian.com">Ian Mallet</a>,
+    <a href="http://www.cemyuksel.com">Cem Yuksel</a>,
+    <a href="http://www.cs.utah.edu/~elb/">Erik Brunvand</a>,
+    <br>
+    [<a href="http://www.cs.utah.edu/~dkopta/papers/hwrt_hpg17.pdf">author preprint</a>]
+<!--    <button onclick="toggle_visibility('CGF14bib')"> BibTeX </button> -->
+</p>
+
+<!--
+
+TODO: Add this, and the above button, once ACM publishes it.
+ 
+<div id="CGF14bib" style='display:none'>
+<pre>
+@article {CGF:CGF12458,
+author = {Kopta, D. and Shkurko, K. and Spjut, J. and Brunvand, E. and Davis, A.},
+title = {Memory Considerations for Low Energy Ray Tracing},
+journal = {Computer Graphics Forum},
+issn = {1467-8659},
+url = {http://dx.doi.org/10.1111/cgf.12458},
+doi = {10.1111/cgf.12458},
+pages = {n/a--n/a},
+keywords = {architecture for accelerated graphics computing, hardware,
+graphics hardware, ray casting/tracing hardware, 
+I.3.1 [Computer Graphics]: Hardware Architecture&mdash;Parallel Processing;
+I.3.7 [Computer Graphics]: Three-Dimensional Graphics and Realism&mdash;Raytracing},
+year = {2014},
+}
+</pre>
+</div>
+-->
+
+
+<br>
+
+
+
 <p><img src="images/CGF14.png" height="105">
 <a href="http://onlinelibrary.wiley.com/doi/10.1111/cgf.12458/abstract?systemMessage=Wiley+Online+Library+will+be+disrupted+9th+Aug+from+10-2+BST+for+essential+maintenance.+Pay+Per+View+will+be+unavailable+from+10-6+BST."><strong>Memory Considerations for Low Energy Ray Tracing</strong></a>
 <br>
