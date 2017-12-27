@@ -26,6 +26,81 @@ img {
 </style>
 
 
+
+<p><img src="images/TVCG17.png" width="205">
+<a href="http://ieeexplore.ieee.org/document/8115176/"><strong>Time Interval Ray Tracing for Motion Blur</strong></a>
+<br>
+    IEEE Transactions on Visualization and Computer Graphics, 2017<br>
+    <a href="http://www.cs.utah.edu/~kshkurko/">Konstantin Shkurko</a>,
+    <a href="http://www.cemyuksel.com">Cem Yuksel</a>,
+    <a href="http://www.cs.utah.edu/~dkopta">Daniel Kopta</a>,
+    <a href="https://geometrian.com">Ian Mallet</a>,
+    <a href="http://www.cs.utah.edu/~elb/">Erik Brunvand</a>,
+    <br>
+    <button onclick="toggle_visibility('TVCG17bib')"> BibTeX </button>
+</p>
+
+
+<div id="TVCG17bib" style='display:none'>
+<pre>
+@ARTICLE{8115176, 
+author={K. Shkurko and C. Yuksel and D. Kopta and I. Mallett and E. Brunvand}, 
+journal={IEEE Transactions on Visualization and Computer Graphics}, 
+title={Time Interval Ray Tracing for Motion Blur}, 
+year={2017}, 
+volume={PP}, 
+number={99}, 
+pages={1-1}, 
+keywords={Acceleration;Cameras;Dynamics;Geometry;Image reconstruction;Ray tracing;Strain;motion blur;ray tracing;sampling}, 
+doi={10.1109/TVCG.2017.2775241}, 
+ISSN={1077-2626}, 
+month={},}
+</pre>
+</div>
+
+
+<br>
+
+
+
+<p><img src="images/IGSC17.png" height="105">
+<a href="papers/hwrt_igsc17.pdf"><strong>Power and Energy Implications of Misunderstanding DRAM</strong></a>
+<br>
+    International Green and Sustainable Computing Conference, 2017<br>
+    <a href="http://www.cs.utah.edu/~elb/">Erik Brunvand</a>,
+    <a href="http://www.cs.utah.edu/~dkopta">Daniel Kopta</a>,
+    <br>
+  <!--  <button onclick="toggle_visibility('IGSC17bib')"> BibTeX </button> -->
+</p>
+
+<!--
+<div id="HPG17bib" style='display:none'>
+<pre>
+@inproceedings{Shkurko:2017:3105762.3105771,
+ author = {Shkurko, Konstantin and Grant, Tim and Kopta, Daniel and Mallett, Ian and Yuksel, Cem and Brunvand, Erik},
+ title = {Dual Streaming for Hardware-accelerated Ray Tracing},
+ booktitle = {Proceedings of High Performance Graphics},
+ series = {HPG '17},
+ year = {2017},
+ isbn = {978-1-4503-5101-0},
+ location = {Los Angeles, California},
+ pages = {12:1--12:11},
+ articleno = {12},
+ numpages = {11},
+ url = {http://doi.acm.org/10.1145/3105762.3105771},
+ doi = {10.1145/3105762.3105771},
+ acmid = {3105771},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {raytracing hardware},
+} 
+</pre>
+</div>
+-->
+
+
+<br>
+
 <p><img src="images/HPG17.png" width="205">
 <a href="http://www.cs.utah.edu/~dkopta/papers/hwrt_hpg17.pdf"><strong>Dual Streaming for Hardware-Accelerated Ray Tracing</strong></a>
 <br>
@@ -38,32 +113,32 @@ img {
     <a href="http://www.cs.utah.edu/~elb/">Erik Brunvand</a>,
     <br>
     [<a href="http://www.cs.utah.edu/~dkopta/papers/hwrt_hpg17.pdf">author preprint</a>]
-<!--    <button onclick="toggle_visibility('CGF14bib')"> BibTeX </button> -->
+    <button onclick="toggle_visibility('HPG17bib')"> BibTeX </button>
 </p>
 
-<!--
-
-TODO: Add this, and the above button, once ACM publishes it.
  
-<div id="CGF14bib" style='display:none'>
+<div id="HPG17bib" style='display:none'>
 <pre>
-@article {CGF:CGF12458,
-author = {Kopta, D. and Shkurko, K. and Spjut, J. and Brunvand, E. and Davis, A.},
-title = {Memory Considerations for Low Energy Ray Tracing},
-journal = {Computer Graphics Forum},
-issn = {1467-8659},
-url = {http://dx.doi.org/10.1111/cgf.12458},
-doi = {10.1111/cgf.12458},
-pages = {n/a--n/a},
-keywords = {architecture for accelerated graphics computing, hardware,
-graphics hardware, ray casting/tracing hardware, 
-I.3.1 [Computer Graphics]: Hardware Architecture&mdash;Parallel Processing;
-I.3.7 [Computer Graphics]: Three-Dimensional Graphics and Realism&mdash;Raytracing},
-year = {2014},
-}
+@inproceedings{Shkurko:2017:3105762.3105771,
+ author = {Shkurko, Konstantin and Grant, Tim and Kopta, Daniel and Mallett, Ian and Yuksel, Cem and Brunvand, Erik},
+ title = {Dual Streaming for Hardware-accelerated Ray Tracing},
+ booktitle = {Proceedings of High Performance Graphics},
+ series = {HPG '17},
+ year = {2017},
+ isbn = {978-1-4503-5101-0},
+ location = {Los Angeles, California},
+ pages = {12:1--12:11},
+ articleno = {12},
+ numpages = {11},
+ url = {http://doi.acm.org/10.1145/3105762.3105771},
+ doi = {10.1145/3105762.3105771},
+ acmid = {3105771},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {raytracing hardware},
+} 
 </pre>
 </div>
--->
 
 
 <br>
