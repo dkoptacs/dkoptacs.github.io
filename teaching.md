@@ -4,6 +4,10 @@ title: Daniel Kopta
 
 ## Teaching
 
+### Spring 2018
+*  CS 4400 Computer Systems
+*  CS 4000 Senior Capstone Design
+
 ### Fall 2017
 *  CS 3500 Software Practice
 *  CS 4500 Senior Capstone Project
