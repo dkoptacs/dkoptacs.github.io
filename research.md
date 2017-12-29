@@ -35,7 +35,7 @@ img {
     <a href="http://www.cemyuksel.com">Cem Yuksel</a>,
     <a href="http://www.cs.utah.edu/~dkopta">Daniel Kopta</a>,
     <a href="https://geometrian.com">Ian Mallet</a>,
-    <a href="http://www.cs.utah.edu/~elb/">Erik Brunvand</a>,
+    <a href="http://www.cs.utah.edu/~elb/">Erik Brunvand</a>
     <br>
     <button onclick="toggle_visibility('TVCG17bib')"> BibTeX </button>
 </p>
@@ -67,36 +67,26 @@ month={},}
 <a href="papers/hwrt_igsc17.pdf"><strong>Power and Energy Implications of Misunderstanding DRAM</strong></a>
 <br>
     International Green and Sustainable Computing Conference, 2017<br>
-    <a href="http://www.cs.utah.edu/~elb/">Erik Brunvand</a>,
-    <a href="http://www.cs.utah.edu/~dkopta">Daniel Kopta</a>,
+    <a href="http://www.cs.utah.edu/~elb/">Erik Brunvand</a> and
+    <a href="http://www.cs.utah.edu/~dkopta">Daniel Kopta</a>
     <br>
-  <!--  <button onclick="toggle_visibility('IGSC17bib')"> BibTeX </button> -->
+    [<a href="papers/hwrt_igsc17.pdf">pdf</a>]
+    <button onclick="toggle_visibility('IGSC17bib')"> BibTeX </button>
 </p>
 
-<!--
-<div id="HPG17bib" style='display:none'>
+
+<div id="IGSC17bib" style='display:none'>
 <pre>
-@inproceedings{Shkurko:2017:3105762.3105771,
- author = {Shkurko, Konstantin and Grant, Tim and Kopta, Daniel and Mallett, Ian and Yuksel, Cem and Brunvand, Erik},
- title = {Dual Streaming for Hardware-accelerated Ray Tracing},
- booktitle = {Proceedings of High Performance Graphics},
- series = {HPG '17},
- year = {2017},
- isbn = {978-1-4503-5101-0},
- location = {Los Angeles, California},
- pages = {12:1--12:11},
- articleno = {12},
- numpages = {11},
- url = {http://doi.acm.org/10.1145/3105762.3105771},
- doi = {10.1145/3105762.3105771},
- acmid = {3105771},
- publisher = {ACM},
- address = {New York, NY, USA},
- keywords = {raytracing hardware},
-} 
+@InProceedings{brunvand-igsc-17,
+  author =       {Erik Brunvand and Daniel Kopta},
+  title =        {Power and Energy Implications of Misunderstanding DRAM},
+  booktitle = {International Green and Sustainable Computing conference ({ISGC})},
+  year =         2017,
+  address =      {Orlando, Fl},
+  organization = {{IEEE}},
+  month =        {Oct.}}
 </pre>
 </div>
--->
 
 
 <br>
@@ -110,7 +100,7 @@ month={},}
     <a href="http://www.cs.utah.edu/~dkopta">Daniel Kopta</a>,
     <a href="https://geometrian.com">Ian Mallet</a>,
     <a href="http://www.cemyuksel.com">Cem Yuksel</a>,
-    <a href="http://www.cs.utah.edu/~elb/">Erik Brunvand</a>,
+    <a href="http://www.cs.utah.edu/~elb/">Erik Brunvand</a>
     <br>
     [<a href="http://www.cs.utah.edu/~dkopta/papers/hwrt_hpg17.pdf">author preprint</a>]
     <button onclick="toggle_visibility('HPG17bib')"> BibTeX </button>
@@ -153,7 +143,7 @@ month={},}
     <a href="http://www.cs.utah.edu/~kshkurko/">Konstantin Shkurko</a>,
     <a href="http://www.cs.utah.edu/~sjosef/">Josef Spjut</a>,
     <a href="http://www.cs.utah.edu/~elb/">Erik Brunvand</a>,
-    <a href="http://www.cs.utah.edu/~ald/">Al Davis</a>.
+    <a href="http://www.cs.utah.edu/~ald/">Al Davis</a>
     <br>
     [<a href="papers/hwrt_cgf14.pdf">author preprint</a>]
     [<a href="http://onlinelibrary.wiley.com/doi/10.1111/cgf.12458/abstract?systemMessage=Wiley+Online+Library+will+be+disrupted+9th+Aug+from+10-2+BST+for+essential+maintenance.+Pay+Per+View+will+be+unavailable+from+10-6+BST.">definitive version</a>]
@@ -187,7 +177,7 @@ year = {2014},
     Course, ACM SIGGRAPH, 2014<br>
     <a href="http://www.cs.utah.edu/~elb/">Erik Brunvand</a>,
     <a href="http://www.cs.utah.edu/~dkopta">Daniel Kopta</a>,
-    <a href="http://www.cs.utah.edu/~nil/">Niladrish Chatterjee</a>.
+    <a href="http://www.cs.utah.edu/~nil/">Niladrish Chatterjee</a>
     <br>
     [<a href="papers/DRAM-SIGGRAPH14_post.pdf">slides</a>]
 <p>
@@ -202,7 +192,7 @@ year = {2014},
     <a href="http://www.cs.utah.edu/~kshkurko/">Konstantin Shkurko</a>,
     <a href="http://www.cs.utah.edu/~sjosef/">Josef Spjut</a>,
     <a href="http://www.cs.utah.edu/~elb/">Erik Brunvand</a>,
-     <a href="http://www.cs.utah.edu/~ald/">Al Davis</a>.
+     <a href="http://www.cs.utah.edu/~ald/">Al Davis</a>
     <br>
     [<a href="papers/hwrt_hpg13.pdf">pdf</a>]
     <button onclick="toggle_visibility('HPG13bib')"> BibTeX </button>
@@ -241,7 +231,7 @@ year = {2014},
     <a href="http://www.cs.utah.edu/~sjosef/">Josef Spjut</a>,
     <a href="http://www.cs.utah.edu/~elb/">Erik Brunvand</a>,
     <a href="http://www.cs.utah.edu/~ald/">Al Davis</a>,
-    <a href="http://www.cs.utah.edu/~aek">Andrew Kensler</a>.
+    <a href="http://www.cs.utah.edu/~aek">Andrew Kensler</a>
     <br>
 
     [<a href="http://www.cs.utah.edu/~thiago/papers/rotations.pdf">pdf</a>]
@@ -280,7 +270,7 @@ year = {2014},
     <a href="http://www.cs.utah.edu/~sjosef/">Josef Spjut</a>,
     <a href="http://www.cs.utah.edu/~dkopta">Daniel Kopta</a>,
     <a href="http://www.cs.utah.edu/~elb/">Erik Brunvand</a>,
-    <a href="http://www.cs.utah.edu/~ald/">Al Davis</a>.
+    <a href="http://www.cs.utah.edu/~ald/">Al Davis</a>
     <br>
 
     [<a href="http://www.cs.utah.edu/~sjosef/papers/spjut-shaw12-final.pdf">pdf</a>]
@@ -307,7 +297,7 @@ year = {2014},
     <a href="http://www.cs.utah.edu/~dkopta">Daniel Kopta</a>,
     <a href="http://www.cs.utah.edu/~sjosef/">Josef Spjut</a>,
     <a href="http://www.cs.utah.edu/~elb/">Erik Brunvand</a>,
-     <a href="http://www.cs.utah.edu/~ald/">Al Davis</a>.
+     <a href="http://www.cs.utah.edu/~ald/">Al Davis</a>
     <br>
 
     [<a href="papers/hwrt_iccd10.pdf">pdf</a>]
@@ -334,7 +324,7 @@ year={2010},
     <a href="http://www.cs.utah.edu/~sjosef/">Josef Spjut</a>,
     <a href="http://www.cs.utah.edu/~aek/">Andrew Kensler</a>,
     <a href="http://www.cs.utah.edu/~dkopta">Daniel Kopta</a>,
-    <a href="http://www.cs.utah.edu/~elb/">Erik Brunvand</a>.
+    <a href="http://www.cs.utah.edu/~elb/">Erik Brunvand</a>
     <br>
 
     [<a href="papers/hwrt_tcad09.pdf">pdf</a>]
@@ -376,7 +366,7 @@ year={2010},
     <a href="http://graphics.stanford.edu/~boulos/">Solomon Boulos</a>,
     <a href="http://www.cs.utah.edu/~dkopta">Daniel Kopta</a>,
     <a href="http://www.cs.utah.edu/~elb/">Erik Brunvand</a>,
-    <a href="http://www.ece.utah.edu/~skellis/">Spencer Kellis</a>.
+    <a href="http://www.ece.utah.edu/~skellis/">Spencer Kellis</a>
     <br>
     [<a href="papers/hwrt_sasp08.pdf">pdf</a>]
     <button onclick="toggle_visibility('SASP08bib')"> BibTeX </button>
