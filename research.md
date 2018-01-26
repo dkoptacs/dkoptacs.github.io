@@ -37,8 +37,11 @@ img {
     <a href="https://geometrian.com">Ian Mallet</a>,
     <a href="http://www.cs.utah.edu/~elb/">Erik Brunvand</a>
     <br>
+    [<a href="http://www.cs.utah.edu/~kshkurko/projects/TVCG_17/TVCG17_shkurkoTimeIntervalRT_oursHi.pdf">author preprint</a>]
     <button onclick="toggle_visibility('TVCG17bib')"> BibTeX </button>
 </p>
+
+
 
 
 <div id="TVCG17bib" style='display:none'>
