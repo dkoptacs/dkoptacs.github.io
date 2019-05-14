@@ -25,7 +25,57 @@ img {
 }
 </style>
 
+<p>
+<a href="https://conf.researchr.org/event/icpc-2019/icpc-2019-replications-replicating-novices-struggles-with-coding-style"><strong>Replicating Novices' Struggles with Coding Style</strong></a>
+<br>
+    International Conference on Program Comprehension, 2019<br>
+    Eliane S. Wiese, Anna N. Rafferty, Daniel M. Kopta, Jacqulyn M. Anderson
+    <br>
+</p>
 
+<br>
+
+<p><img src="images/GLSVLSI.png" height="105">
+<a href="http://www.cs.utah.edu/~kshkurko/projects/GLSVLSI_18/GLSVLSI18_shkurkoSimtrax_ours.pdf"><strong>SimTRaX: Simulation Infrastructure for Exploring Thousands of Cores</strong></a>
+<br>
+    Great Lakes Symposium on VLSI, 2018<br>
+    <a href="http://www.cs.utah.edu/~kshkurko/">Konstantin Shkurko</a>,
+    <a href="http://www.cs.utah.edu/~tgrant/">Tim Grant</a>,
+    <a href="http://www.cs.utah.edu/~elb/">Erik Brunvand</a>
+    <a href="http://www.cs.utah.edu/~dkopta">Daniel Kopta</a>,
+    <a href="http://www.cs.utah.edu/~sjosef/">Josef Spjut</a>,
+    <a href="http://www.cs.utah.edu/~elvasiou/">Elena Vasiou</a>,
+    <a href="https://geometrian.com">Ian Mallet</a>,
+    <a href="http://www.cemyuksel.com">Cem Yuksel</a>,
+    <br>
+    [<a href="http://www.cs.utah.edu/~kshkurko/projects/GLSVLSI_18/GLSVLSI18_shkurkoSimtrax_ours.pdf">author preprint</a>]
+    <button onclick="toggle_visibility('GLSVLSIbib')"> BibTeX </button>
+</p>
+
+
+<div id="GLSVLSIbib" style='display:none'>
+<pre>
+@inproceedings{Shkurko:2018:simtrax,
+  author    = {Konstantin Shkurko and Tim Grant and Erik Brunvand and Daniel Kopta and Josef Spjut and Elena Vasiou and Ian Mallett and Cem Yuksel},
+  title     = {SimTRaX: Simulation Infrastructure for Exploring Thousands of Cores},
+  booktitle = {2018 Great Lakes Symposium on VLSI},
+  series    = {GLSVLSI '18},
+  year      = {2018},
+  isbn      = {978-1-4503-5724-1},
+  location  = {Chicago, IL},
+  numpages  = {4},
+  url       = {https://doi.org/10.1145/3194554.3194650},
+  doi       = {10.1145/3194554.3194650},
+  publisher = {ACM},
+  address   = {New York, NY, USA},
+  note      = {to appear},
+  acmid     = {2492058},
+  pages     = {121--128}
+}
+</pre>
+</div>
+
+<br>
 
 <p><img src="images/TVCG17.png" width="205">
 <a href="http://ieeexplore.ieee.org/document/8115176/"><strong>Time Interval Ray Tracing for Motion Blur</strong></a>
@@ -61,10 +111,7 @@ month={},}
 </pre>
 </div>
 
-
 <br>
-
-
 
 <p><img src="images/IGSC17.png" height="105">
 <a href="papers/hwrt_igsc17.pdf"><strong>Power and Energy Implications of Misunderstanding DRAM</strong></a>
