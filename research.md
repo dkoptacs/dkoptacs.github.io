@@ -29,7 +29,11 @@ img {
 <a href="https://conf.researchr.org/event/icpc-2019/icpc-2019-replications-replicating-novices-struggles-with-coding-style"><strong>Replicating Novices' Struggles with Coding Style</strong></a>
 <br>
     International Conference on Program Comprehension, 2019<br>
-    Eliane S. Wiese, Anna N. Rafferty, Daniel M. Kopta, Jacqulyn M. Anderson
+    
+    <a href="http://www.cs.utah.edu/~eliane">Eliane S. Wiese</a>,
+    Anna N. Rafferty, 
+    <a href="http://www.cs.utah.edu/~dkopta">Daniel Kopta</a>,
+    Jacqulyn M. Anderson
     <br>
 </p>
 

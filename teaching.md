@@ -2,7 +2,7 @@
 title: Daniel Kopta
 ---
 
-## Teaching
+## Teaching - At the University of Utah
 
 ### CS 2000 Introduction to Program Design in C
 *  Fall 2010
