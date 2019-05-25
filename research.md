@@ -31,7 +31,7 @@ img {
     International Conference on Program Comprehension, 2019<br>
     
     <a href="http://www.cs.utah.edu/~eliane">Eliane S. Wiese</a>,
-    Anna N. Rafferty, 
+    <a href="https://sites.google.com/site/annanrafferty/">Anna N. Rafferty</a>, 
     <a href="http://www.cs.utah.edu/~dkopta">Daniel Kopta</a>,
     Jacqulyn M. Anderson
     <br>
@@ -49,7 +49,7 @@ img {
     <a href="http://www.cs.utah.edu/~dkopta">Daniel Kopta</a>,
     <a href="http://www.cs.utah.edu/~sjosef/">Josef Spjut</a>,
     <a href="http://www.cs.utah.edu/~elvasiou/">Elena Vasiou</a>,
-    <a href="https://geometrian.com">Ian Mallet</a>,
+    <a href="https://geometrian.com">Ian Mallett</a>,
     <a href="http://www.cemyuksel.com">Cem Yuksel</a>,
     <br>
     [<a href="http://www.cs.utah.edu/~kshkurko/projects/GLSVLSI_18/GLSVLSI18_shkurkoSimtrax_ours.pdf">author preprint</a>]
@@ -88,7 +88,7 @@ img {
     <a href="http://www.cs.utah.edu/~kshkurko/">Konstantin Shkurko</a>,
     <a href="http://www.cemyuksel.com">Cem Yuksel</a>,
     <a href="http://www.cs.utah.edu/~dkopta">Daniel Kopta</a>,
-    <a href="https://geometrian.com">Ian Mallet</a>,
+    <a href="https://geometrian.com">Ian Mallett</a>,
     <a href="http://www.cs.utah.edu/~elb/">Erik Brunvand</a>
     <br>
     [<a href="http://www.cs.utah.edu/~kshkurko/projects/TVCG_17/TVCG17_shkurkoTimeIntervalRT_oursHi.pdf">author preprint</a>]
@@ -152,7 +152,7 @@ month={},}
     <a href="http://www.cs.utah.edu/~kshkurko/">Konstantin Shkurko</a>,
     <a href="http://www.cs.utah.edu/~tgrant/">Tim Grant</a>,
     <a href="http://www.cs.utah.edu/~dkopta">Daniel Kopta</a>,
-    <a href="https://geometrian.com">Ian Mallet</a>,
+    <a href="https://geometrian.com">Ian Mallett</a>,
     <a href="http://www.cemyuksel.com">Cem Yuksel</a>,
     <a href="http://www.cs.utah.edu/~elb/">Erik Brunvand</a>
     <br>
