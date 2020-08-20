@@ -26,6 +26,44 @@ img {
 </style>
 
 <p>
+<a href="https://dqlin.xyz/pubs/2020-hpg-DST/"><strong>Hardware-Accelerated Dual-Split Trees</strong></a>
+<br>
+    High Performance Graphics, 2020<br>
+    
+    <a href="https://dqlin.xyz">Daqi Lin</a>,
+    <a href="http://www.cs.utah.edu/~elvasiou/">Elena Vasiou</a>, 
+    <a href="http://www.cemyuksel.com">Cem Yuksel</a>,
+    <a href="http://www.cs.utah.edu/~dkopta">Daniel Kopta</a>,
+    <a href="https://www.cs.utah.edu/~elb/">Erik Brunvand</a>
+    <br>
+    [<a href="https://dqlin.xyz/data/Hardware_Accelerated_Dual-Split_Trees_preprint.pdf">author preprint</a>]
+    <button onclick="toggle_visibility('HPG20bib')"> BibTeX </button>
+</p>
+
+<div id="HPG20bib" style='display:none'>
+<pre>
+@article{Lin2020,
+   author       = {Daqi Lin and Elena Vasiou and Cem Yuksel and Daniel Kopta and Erik Brunvand},
+   title        = {Hardware-Accelerated Dual-Split Trees},
+   journal      = {Proc. ACM Comput. Graph. Interact. Tech. (Proceedings of HPG 2020)},
+   year         = {2020},
+   volume       = {3},
+   number       = {2},
+   pages        = {20:1--20:21},
+   articleno    = {20},
+   numpages     = {18},
+   url          = {http://doi.acm.org/10.1145/3406185},
+   doi          = {10.1145/3406185},
+   publisher    = {ACM Press},
+   address      = {New York, NY, USA},
+}
+</pre>
+</div>
+
+<br>
+
+
+<p>
 <a href="https://conf.researchr.org/event/icpc-2019/icpc-2019-replications-replicating-novices-struggles-with-coding-style"><strong>Replicating Novices' Struggles with Coding Style</strong></a>
 <br>
     International Conference on Program Comprehension, 2019<br>
