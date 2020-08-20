@@ -26,6 +26,7 @@ img {
 </style>
 
 <p>
+<img src="images/HGP20.png" height="105">
 <a href="https://dqlin.xyz/pubs/2020-hpg-DST/"><strong>Hardware-Accelerated Dual-Split Trees</strong></a>
 <br>
     High Performance Graphics, 2020<br>
