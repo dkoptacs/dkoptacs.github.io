@@ -88,7 +88,7 @@ img {
     <a href="http://www.cs.utah.edu/~dkopta">Daniel Kopta</a>,
     <a href="http://www.cs.utah.edu/~sjosef/">Josef Spjut</a>,
     <a href="http://www.cs.utah.edu/~elvasiou/">Elena Vasiou</a>,
-    <a href="https://geometrian.com">Agatha t</a>,
+    <a href="https://geometrian.com">Agatha Mallett</a>,
     <a href="http://www.cemyuksel.com">Cem Yuksel</a>,
     <br>
     [<a href="http://www.cs.utah.edu/~kshkurko/projects/GLSVLSI_18/GLSVLSI18_shkurkoSimtrax_ours.pdf">author preprint</a>]
