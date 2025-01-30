@@ -88,7 +88,7 @@ img {
     <a href="http://www.cs.utah.edu/~dkopta">Daniel Kopta</a>,
     <a href="http://www.cs.utah.edu/~sjosef/">Josef Spjut</a>,
     <a href="http://www.cs.utah.edu/~elvasiou/">Elena Vasiou</a>,
-    <a href="https://geometrian.com">Ian Mallett</a>,
+    <a href="https://geometrian.com">Agatha t</a>,
     <a href="http://www.cemyuksel.com">Cem Yuksel</a>,
     <br>
     [<a href="http://www.cs.utah.edu/~kshkurko/projects/GLSVLSI_18/GLSVLSI18_shkurkoSimtrax_ours.pdf">author preprint</a>]
@@ -99,7 +99,7 @@ img {
 <div id="GLSVLSIbib" style='display:none'>
 <pre>
 @inproceedings{Shkurko:2018:simtrax,
-  author    = {Konstantin Shkurko and Tim Grant and Erik Brunvand and Daniel Kopta and Josef Spjut and Elena Vasiou and Ian Mallett and Cem Yuksel},
+  author    = {Konstantin Shkurko and Tim Grant and Erik Brunvand and Daniel Kopta and Josef Spjut and Elena Vasiou and Agatha Mallett and Cem Yuksel},
   title     = {SimTRaX: Simulation Infrastructure for Exploring Thousands of Cores},
   booktitle = {2018 Great Lakes Symposium on VLSI},
   series    = {GLSVLSI '18},
@@ -127,7 +127,7 @@ img {
     <a href="http://www.cs.utah.edu/~kshkurko/">Konstantin Shkurko</a>,
     <a href="http://www.cemyuksel.com">Cem Yuksel</a>,
     <a href="http://www.cs.utah.edu/~dkopta">Daniel Kopta</a>,
-    <a href="https://geometrian.com">Ian Mallett</a>,
+    <a href="https://geometrian.com">Agatha Mallett</a>,
     <a href="http://www.cs.utah.edu/~elb/">Erik Brunvand</a>
     <br>
     [<a href="http://www.cs.utah.edu/~kshkurko/projects/TVCG_17/TVCG17_shkurkoTimeIntervalRT_oursHi.pdf">author preprint</a>]
@@ -140,7 +140,7 @@ img {
 <div id="TVCG17bib" style='display:none'>
 <pre>
 @ARTICLE{8115176, 
-author={K. Shkurko and C. Yuksel and D. Kopta and I. Mallett and E. Brunvand}, 
+author={K. Shkurko and C. Yuksel and D. Kopta and A. Mallett and E. Brunvand}, 
 journal={IEEE Transactions on Visualization and Computer Graphics}, 
 title={Time Interval Ray Tracing for Motion Blur}, 
 year={2017}, 
@@ -191,7 +191,7 @@ month={},}
     <a href="http://www.cs.utah.edu/~kshkurko/">Konstantin Shkurko</a>,
     <a href="http://www.cs.utah.edu/~tgrant/">Tim Grant</a>,
     <a href="http://www.cs.utah.edu/~dkopta">Daniel Kopta</a>,
-    <a href="https://geometrian.com">Ian Mallett</a>,
+    <a href="https://geometrian.com">Agatha Mallett</a>,
     <a href="http://www.cemyuksel.com">Cem Yuksel</a>,
     <a href="http://www.cs.utah.edu/~elb/">Erik Brunvand</a>
     <br>
@@ -203,7 +203,7 @@ month={},}
 <div id="HPG17bib" style='display:none'>
 <pre>
 @inproceedings{Shkurko:2017:3105762.3105771,
- author = {Shkurko, Konstantin and Grant, Tim and Kopta, Daniel and Mallett, Ian and Yuksel, Cem and Brunvand, Erik},
+ author = {Shkurko, Konstantin and Grant, Tim and Kopta, Daniel and Mallett, Agatha and Yuksel, Cem and Brunvand, Erik},
  title = {Dual Streaming for Hardware-accelerated Ray Tracing},
  booktitle = {Proceedings of High Performance Graphics},
  series = {HPG '17},
