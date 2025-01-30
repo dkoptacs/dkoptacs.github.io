@@ -79,7 +79,7 @@ img {
 <br>
 
 <p><img src="images/GLSVLSI.png" height="105">
-<a href="http://www.cs.utah.edu/~kshkurko/projects/GLSVLSI_18/GLSVLSI18_shkurkoSimtrax_ours.pdf"><strong>SimTRaX: Simulation Infrastructure for Exploring Thousands of Cores</strong></a>
+<a href="https://dl.acm.org/doi/10.1145/3194554.3194650"><strong>SimTRaX: Simulation Infrastructure for Exploring Thousands of Cores</strong></a>
 <br>
     Great Lakes Symposium on VLSI, 2018<br>
     <a href="http://www.cs.utah.edu/~kshkurko/">Konstantin Shkurko</a>,
@@ -91,7 +91,7 @@ img {
     <a href="https://geometrian.com">Agatha Mallett</a>,
     <a href="http://www.cemyuksel.com">Cem Yuksel</a>,
     <br>
-    [<a href="http://www.cs.utah.edu/~kshkurko/projects/GLSVLSI_18/GLSVLSI18_shkurkoSimtrax_ours.pdf">author preprint</a>]
+    [<a href="http://cemyuksel.com/research/papers/SimTRaX_GLSVLSI18.pdf">author preprint</a>]
     <button onclick="toggle_visibility('GLSVLSIbib')"> BibTeX </button>
 </p>
 
@@ -121,7 +121,7 @@ img {
 <br>
 
 <p><img src="images/TVCG17.png" width="205">
-<a href="http://ieeexplore.ieee.org/document/8115176/"><strong>Time Interval Ray Tracing for Motion Blur</strong></a>
+<a href="http://dx.doi.org/10.1109/TVCG.2017.2775241"><strong>Time Interval Ray Tracing for Motion Blur</strong></a>
 <br>
     IEEE Transactions on Visualization and Computer Graphics, 2017<br>
     <a href="http://www.cs.utah.edu/~kshkurko/">Konstantin Shkurko</a>,
@@ -130,7 +130,7 @@ img {
     <a href="https://geometrian.com">Agatha Mallett</a>,
     <a href="http://www.cs.utah.edu/~elb/">Erik Brunvand</a>
     <br>
-    [<a href="http://www.cs.utah.edu/~kshkurko/projects/TVCG_17/TVCG17_shkurkoTimeIntervalRT_oursHi.pdf">author preprint</a>]
+    [<a href="http://cemyuksel.com/research/papers/time_interval_ray_tracing_for_motion_blur-high.pdf">author preprint</a>]
     <button onclick="toggle_visibility('TVCG17bib')"> BibTeX </button>
 </p>
 
@@ -185,7 +185,7 @@ month={},}
 <br>
 
 <p><img src="images/HPG17.png" width="205">
-<a href="http://www.cs.utah.edu/~dkopta/papers/hwrt_hpg17.pdf"><strong>Dual Streaming for Hardware-Accelerated Ray Tracing</strong></a>
+<a href="http://doi.acm.org/10.1145/3105762.3105771"><strong>Dual Streaming for Hardware-Accelerated Ray Tracing</strong></a>
 <br>
     High Performance Graphics, 2017<br>
     <a href="http://www.cs.utah.edu/~kshkurko/">Konstantin Shkurko</a>,
@@ -195,7 +195,7 @@ month={},}
     <a href="http://www.cemyuksel.com">Cem Yuksel</a>,
     <a href="http://www.cs.utah.edu/~elb/">Erik Brunvand</a>
     <br>
-    [<a href="http://www.cs.utah.edu/~dkopta/papers/hwrt_hpg17.pdf">author preprint</a>]
+    [<a href="http://cemyuksel.com/research/papers/dual_streaming_hpg2017.pdf">author preprint</a>]
     <button onclick="toggle_visibility('HPG17bib')"> BibTeX </button>
 </p>
 
